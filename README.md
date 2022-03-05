@@ -6,7 +6,15 @@ I have did so many stages in this project which all include:
   * EDA
   * Statistics 
   * Normalization
-  * Machine Learning 
+  * Machine Learning (Supervised Learning Classification)
+ 
+Machine Learning algorithms used:
+  * Logistic Regression
+  * SGD Classifier
+  * Random Forest Classifier
+  * KNeighbors Classifier (KNN)
+  * Gaussian NB (Navie Bayes)
+  * Decision Tree Classifier
 
 Higlhlights:
   * Each stage are well explained
