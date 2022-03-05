@@ -2,7 +2,7 @@
 This project contain data of Formula 1 history from 1950 to 2021.
 
 I have did so many stages in this project which all include:
-  * Data Preprocessing 
+  * Data Preprocessing (Merging the dataframe and cleaning the data)
   * EDA
   * Statistics 
   * Normalization
