@@ -22,4 +22,4 @@ Higlhlights:
   * Target column as driver name
   * Higher accuracy in all classification algorithms 
 
-Kaggle competition link: https://www.kaggle.com/anandaramg/f1-champ-eda-classification-100-accuracy/notebook (Map will be loaded here)
+Kaggle competition link: https://www.kaggle.com/anandaramg/f1-champ-eda-classification-100-accuracy/notebook (Maps are loaded here)
