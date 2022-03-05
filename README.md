@@ -1,4 +1,4 @@
-# F1-World-Champions
+# F1-World-Championship
 This project contain data of Formula 1 history from 1950 to 2021.
 
 I have did so many stages in this project which all include:
