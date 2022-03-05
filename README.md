@@ -19,7 +19,7 @@ Machine Learning algorithms used:
 
 Higlhlights:
   * Each stage are well explained
-  * ploted using [OpenStreetMap](https://www.openstreetmap.org/#map=4/21.84/82.79) (zoom in/out and pin shows the name of the track)
+  * ploted map using [OpenStreetMap](https://www.openstreetmap.org/#map=4/21.84/82.79) (zoom in/out and pin shows the name of the track)
   * Target column as driver name
   * Higher accuracy in all classification algorithms 
 
