@@ -7,7 +7,7 @@ I have did so many stages in this project which all include:
   * Statistics 
   * Normalization
   * Machine Learning (Supervised Learning Classification)
-  * Future Engineering (Scaling the data)
+  * Future Engineering (Scaling/Normalizing the data)
  
 Machine Learning algorithms used:
   * Logistic Regression
